@@ -28,7 +28,7 @@ Code:
 
 Output:
 
-![alt text](gambar/gambar1.png)
+<img width="378" height="146" alt="Cuplikan layar 2026-10-26 202415" src="https://github.com/user-attachments/assets/d8dceb7e-b5a3-48c3-be47-28efc96848dc" />
 
 ### Event Click
 
@@ -38,11 +38,11 @@ Hasil yang diharapkan: Pesan pada halaman berubah setiap kali tombol diklik.
 
 Code:
 
-![alt text](gambar/code3.png)
+<img width="570" height="173" alt="Cuplikan layar 2026-10-26 202814" src="https://github.com/user-attachments/assets/6e61561e-cfc8-494d-9465-eb7ccd1c5047" />
 
 Output:
 
-![alt text](gambar/gambar2.png)
+<img width="361" height="127" alt="Cuplikan layar 2026-10-26 202834" src="https://github.com/user-attachments/assets/23e8e477-8bd1-4a7f-b826-5302ea63efd1" />
 
 ### Mengubah Class dan Gaya CSS
 
@@ -52,9 +52,9 @@ Hasil yang diharapkan: Tampilan paragraf berubah ketika tombol ditekan.
 
 Code:
 
-![alt text](gambar/code4.png)
+<img width="435" height="180" alt="Cuplikan layar 2026-10-26 202909" src="https://github.com/user-attachments/assets/e4c53a6c-25fa-4071-af55-d59f688c09df" />
 
-![alt text](gambar/code5.png)
+<img width="570" height="122" alt="Cuplikan layar 2026-10-26 202920" src="https://github.com/user-attachments/assets/813f232f-f887-48a5-87a9-bf0d9bfd3c2f" />
 
 ### Event input dan penghitung karakter
 
@@ -64,13 +64,13 @@ Hasil yang diharapkan: Jumlah karakter bertambah atau berkurang secara langsung 
 
 Code:
 
-![alt text](gambar/code6.png)
+<img width="570" height="62" alt="Cuplikan layar 2026-10-26 202935" src="https://github.com/user-attachments/assets/eae08406-6cbe-4cab-a174-94c3223a6fe5" />
 
-![alt text](gambar/code7.png)
+<img width="568" height="102" alt="Cuplikan layar 2026-10-26 202950" src="https://github.com/user-attachments/assets/088bdbda-b316-44fc-a249-758ce65e2930" />
 
 Output:
 
-![alt text](gambar/gambar3.png)
+<img width="490" height="172" alt="Cuplikan layar 2026-10-26 203128" src="https://github.com/user-attachments/assets/684546ee-1c39-4e0f-8107-4a5c8f6fdc89" />
 
 ### Validasi Form Pendaftaran
 
@@ -88,19 +88,19 @@ Hasil yang diharapkan: Program menampilkan pesan kesalahan sesuai kondisi input 
 
 Code:
 
-![alt text](gambar/code8.png)
+<img width="570" height="180" alt="Cuplikan layar 2026-10-26 203148" src="https://github.com/user-attachments/assets/446bc109-04c2-4db0-bde4-3b7e33b2729a" />
 
-![alt text](gambar/code9.png)
+<img width="570" height="326" alt="Cuplikan layar 2026-10-26 203203" src="https://github.com/user-attachments/assets/50be574c-03ae-4b39-a70b-4f073a223227" />
 
 Output:
 
-![alt text](<gambar/gambar4 (nama wajib disi).png>)
+<img width="676" height="340" alt="Cuplikan layar 2026-10-26 203826" src="https://github.com/user-attachments/assets/41452a96-cb81-46da-9422-61365cab8970" />
 
-![alt text](<gambar/gambar5 (masukkan email yang vallid).png>)
+<img width="663" height="335" alt="Cuplikan layar 2026-10-26 203904" src="https://github.com/user-attachments/assets/2e13b90b-b04d-4d28-acdc-60798749452a" />
 
-![alt text](<gambar/gambar6( dibawah umur).png>)
+<img width="666" height="342" alt="Cuplikan layar 2026-10-26 203930" src="https://github.com/user-attachments/assets/b1fea79b-becb-4f71-9099-1a0c6d0f976f" />
 
-![alt text](<gambar/gambar7 (validasi berhasil).png>)
+<img width="670" height="340" alt="Cuplikan layar 2026-10-26 203958" src="https://github.com/user-attachments/assets/ff075518-0c78-4d5b-a71a-5a2122247e8d" />
 
 ### To-do List
 
@@ -110,17 +110,16 @@ Hasil yang diharapkan: Tugas baru muncul pada daftar dan dapat ditandai selesai 
 
 Code:
 
-![alt text](gambar/code10.png)
+<img width="545" height="150" alt="Cuplikan layar 2026-10-26 204245" src="https://github.com/user-attachments/assets/c70a9f99-6725-49a9-8aae-35a318b08e03" />
 
-![alt text](gambar/code11.png)
+<img width="558" height="50" alt="Cuplikan layar 2026-10-26 204259" src="https://github.com/user-attachments/assets/68baffcc-b342-4df2-884b-9f7ae5173e26" />
 
-![alt text](gambar/code12.png)
-
+<img width="570" height="500" alt="Cuplikan layar 2026-10-26 204338" src="https://github.com/user-attachments/assets/d943234c-bf29-46d4-a920-ab676e90dec2" />
 Output:
 
-![alt text](gambar/gambar8.png)
+<img width="661" height="381" alt="Cuplikan layar 2026-10-26 204437" src="https://github.com/user-attachments/assets/0c156cb4-3535-4459-8e59-461886e6b2f0" />
 
-![alt text](gambar/gambar9.png)
+<img width="578" height="311" alt="Cuplikan layar 2026-10-26 204517" src="https://github.com/user-attachments/assets/935204bb-ad2e-4d2d-8dd6-e698c22e8c93" />
 
 ## Mini Project (Form Pendaftaran Workshop)
 
