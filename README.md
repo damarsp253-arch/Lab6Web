@@ -22,9 +22,9 @@ Hasil yang diharapkan: Judul dan paragraf berubah sesuai teks yang ditentukan pa
 
 Code:
 
-![alt text](gambar/code1.png)
+<img width="627" height="332" alt="Cuplikan layar 2026-10-26 202326" src="https://github.com/user-attachments/assets/20f02e9d-1e1b-4853-b719-487dac096d99" />
 
-![alt text](gambar/code2.png)
+<img width="562" height="105" alt="Cuplikan layar 2026-10-26 202351" src="https://github.com/user-attachments/assets/8b6e5434-2f1d-4fc9-a551-48e2ca99e640" />
 
 Output:
 
